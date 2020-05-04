@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuyinghui321.github.io</id>
     <title>笑傲江湖曲</title>
-    <updated>2020-05-01T09:50:49.575Z</updated>
+    <updated>2020-05-04T07:56:48.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xuyinghui321.github.io"/>
     <link rel="self" href="https://xuyinghui321.github.io/atom.xml"/>
@@ -11,12 +11,17 @@
     <icon>https://xuyinghui321.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 笑傲江湖曲</rights>
     <entry>
+        <title type="html"><![CDATA[二十四季APP设计]]></title>
+        <id>https://xuyinghui321.github.io/er-shi-si-ji-app-she-ji/</id>
+        <link href="https://xuyinghui321.github.io/er-shi-si-ji-app-she-ji/">
+        </link>
+        <updated>2020-05-01T10:06:44.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PPTV客户端设计]]></title>
-        <id>https://xuyinghui321.github.io/post/pptv-ke-hu-duan-she-ji/</id>
-        <link href="https://xuyinghui321.github.io/post/pptv-ke-hu-duan-she-ji/">
+        <id>https://xuyinghui321.github.io/pptv-ke-hu-duan-she-ji/</id>
+        <link href="https://xuyinghui321.github.io/pptv-ke-hu-duan-she-ji/">
         </link>
         <updated>2020-05-01T07:30:25.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xuyinghui321.github.io/post-images/1588326632191.png" alt="" loading="lazy"></figure>
-]]></content>
     </entry>
 </feed>

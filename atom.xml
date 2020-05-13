@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuyinghui321.github.io</id>
     <title>笑傲江湖曲</title>
-    <updated>2020-05-05T18:11:19.900Z</updated>
+    <updated>2020-05-13T08:59:37.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xuyinghui321.github.io"/>
     <link rel="self" href="https://xuyinghui321.github.io/atom.xml"/>
@@ -26,7 +26,7 @@
         <updated>2020-05-04T09:01:48.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[卓达加油小程序设计提案]]></title>
+        <title type="html"><![CDATA[卓达加油小程序]]></title>
         <id>https://xuyinghui321.github.io/zhuo-da-jia-you-xiao-cheng-xu-she-ji-ti-an/</id>
         <link href="https://xuyinghui321.github.io/zhuo-da-jia-you-xiao-cheng-xu-she-ji-ti-an/">
         </link>
